@@ -10,7 +10,7 @@
 locale                   : "en-US"
 name                     : "Ruixiao Yang"
 description              : "PhD student at REALM lab, Department of AeroAstro, Massachusetts Institute of Technology"
-url                      : https://brelliothe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://brelliothe.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Brelliothe/Brelliothe.github.io"
 
@@ -20,13 +20,13 @@ repository               : "Brelliothe/Brelliothe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ruixiao Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student at REALM lab, Department of AeroAstro, Massachusetts Institute of Technology"
+  location         : "Cambridge, MA, US"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ruixiao@mit.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=c0W8nfwAAAAJ"
@@ -36,12 +36,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Brelliothe"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
