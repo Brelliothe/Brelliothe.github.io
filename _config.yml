@@ -19,7 +19,7 @@ repository               : "Brelliothe/Brelliothe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfie.jpg"
   name             : "Ruixiao Yang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at REALM lab, AeroAstro, MIT"
