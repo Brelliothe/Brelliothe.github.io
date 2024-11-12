@@ -8,10 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Ruixiao Yang"
-description              : &description "personal description"
+name                     : "Ruixiao Yang"
+description              : "PhD student at REALM lab, Department of AeroAstro, Massachusetts Institute of Technology"
 url                      : https://brelliothe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Brelliothe/Brelliothe.github.io"
