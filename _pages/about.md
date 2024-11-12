@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a third-year graduate student at [REALM Lab](https://aeroastro.mit.edu/realm/) AeroAstro, MIT, fortunately to be advised by Prof. [Chuchu Fan](https://aeroastro.mit.edu/people/chuchu-fan/). My research focuses on developing scalable or guaranteed algorithms for combinatorial problems and their applications in transportation, energy systems, and control systems.   
+
+Prior to joining MIT, I was an undergrad in Yao's Class, Tsinghua University. I was fortunate to work with Prof. [Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/), Prof. [Adam Wierman](https://adamwierman.com/about/), Prof. [Guannan Qu](https://www.guannanqu.com/), Prof. [Tongxin Li](https://tongxin.me/) and Prof. [Zhilin Yang](https://kimiyoung.github.io/). 
 
 A data-driven personal website
 ======
